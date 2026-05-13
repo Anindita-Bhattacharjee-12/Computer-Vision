@@ -1,1 +1,1 @@
-# Computer-Vision
+# Computer Vision and Pattern Recognition
